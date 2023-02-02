@@ -1,0 +1,3 @@
+//1-In terminal write "node" to get in repl
+//2- write "crypto" to list all of the methods
+//3- write "crypto.randomUUID()" to generate a random id
